@@ -1,0 +1,16 @@
+{
+  "name": "Kỹ năng số và dịch vụ công trực tuyến – Long Thành",
+  "short_name": "Kỹ năng số LT",
+  "description": "Giáo trình tương tác kỹ năng số cơ bản và hỗ trợ người dân sử dụng dịch vụ công trực tuyến",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF4FB",
+  "theme_color": "#0B4FB3",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
